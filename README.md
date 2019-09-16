@@ -1,5 +1,15 @@
 # Adonis API application (Twitter)
 
+As únicas dependências da estrutura são `Node.js` e `npm`.
+
+Verifique se suas versões dessas ferramentas correspondem aos seguintes critérios:
+```
+    Node.js >= 8.0.0
+
+    npm >= 3.0.0
+```
+
+
 Padrão para a criação de um servidor API no [Adonisjs](https://adonisjs.com), vem pré-configurado com.
 
 1. Bodyparser
